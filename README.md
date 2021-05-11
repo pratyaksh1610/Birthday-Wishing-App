@@ -3,6 +3,6 @@
  <h1>Tools</h1>
  Made by using Kotlin programming language
  <br>
- API - https://meme-api.herokuapp.com/gimme
+ API used - https://meme-api.herokuapp.com/gimme
  <br>
 
